@@ -42,5 +42,8 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Angitia Biopharmaceuticals is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Angitia Biopharmaceuticals is a clinical-stage biopharmaceutical company founded in 2018, headquartered in Westlake Village, California, with research and development operations in Guangzhou, China. It discovers and develops biologic therapeutics for serious musculoskeletal diseases, including osteoporosis, osteogenesis imperfecta, bone metastasis, osteoarthritis and muscle disorders. Its clinical pipeline is led by AGA2118 and AGA2115, bispecific antibodies targeting sclerostin and DKK1, alongside AGA111 in lumbar interbody fusion. The company closed a $120 million Series C financing in December 2024 led by Bain Capital Life Sciences.
+
+Angitia is a drug developer, not a software vendor: it publishes no API, developer portal, SDK, machine-readable specification, or technology platform of any kind. This profile records that absence, with the probes behind it.
+
+- https://www.angitiabio.com/

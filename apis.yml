@@ -12,6 +12,17 @@ description: 'Angitia Biopharmaceuticals is a clinical-stage biopharmaceutical c
   portal, SDK, machine-readable specification, or technology platform of any kind.
   Its only machine-readable public surface is an XML sitemap and a robots.txt carrying
   Cloudflare-managed Content-Signal directives that reserve AI training rights.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.angitiabio.com/home/img/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/angitia-biopharmaceuticals/refs/heads/main/apis.yml
 x-type: company
